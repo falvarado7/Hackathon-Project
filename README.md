@@ -4,6 +4,8 @@ A full-stack hackathon project built in just one week that empowers users to exp
 
 This project was originally deployed on Render during the hackathon but is now fully set up so you can run it locally or host it yourself.
 
+![Dashboard Screenshot](./public/screenshots/Monarch.PNG)
+
 ---
 
 ## 🚀 Features
@@ -42,6 +44,15 @@ Hackathon-Project/
 ├── package.json
 └── README.md
 ```
+
+---
+
+## 📸 Screenshots
+
+### Mobile
+![1](./public/screenshots/Monarch1.PNG)
+![2](./public/screenshots/Monarch2.PNG)
+![3](./public/screenshots/Monarch3.PNG)
 
 ---
 
